@@ -1,32 +1,24 @@
-<h1 align="center">Hi 👋, I'm Muthurasu M</h1>
-<h3 align="center">"Frontend Developer | Leveling Up with the MERN Stack 🚀</h3>
+# 💫 About Me:
+🔭 I’m currently working on Social Media Marketing Scheduler<br><br>🌱 I’m currently learning Node.js, Express.js, MongoDB – taking my frontend expertise full-stack with the MERN stack<br><br>👯 I’m looking to collaborate on Open-source MERN stack projects or frontend-focused UI libraries<br><br>🤝 I’m looking for help with Best practices in Node.js & MongoDB schema design – always open to learning<br><br>👨‍💻 All of my projects are available at https://muthurasu-portfolio.netlify.app/<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, responsive design, and frontend development best practices<br><br>📫 How to reach me muthurasu6319@gmail.com<br><br>📄 Know about my experiences https://muthurasu-portfolio.netlify.app/img/Muthurasu%20M-Resume.pdf<br><br>⚡ Fun fact I drink more coffee while coding than any other time of the day ☕😄
 
-- 🔭 I’m currently working on [Social Media Marketing Scheduler](http://smmscheduler.com/)
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB – taking my frontend expertise full-stack with the MERN stack**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.__.robin.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muthurasu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthurasu6319@gmail.com) 
 
-- 👯 I’m looking to collaborate on **Open-source MERN stack projects or frontend-focused UI libraries**
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muthurasu-6319&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Muthurasu-6319&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthurasu-6319&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🤝 I’m looking for help with **Best practices in Node.js & MongoDB schema design – always open to learning**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Muthurasu-6319&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [https://muthurasu-portfolio.netlify.app/](https://muthurasu-portfolio.netlify.app/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, responsive design, and frontend development best practices**
+---
+[![](https://visitcount.itsvg.in/api?id=Muthurasu-6319&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **muthurasu6319@gmail.com**
-
-- 📄 Know about my experiences [https://muthurasu-portfolio.netlify.app/img/Muthurasu%20M-Resume.pdf](https://muthurasu-portfolio.netlify.app/img/Muthurasu%20M-Resume.pdf)
-
-- ⚡ Fun fact **I drink more coffee while coding than any other time of the day ☕😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muthurasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muthurasu" height="30" width="40" /></a>
-<a href="https://fb.com/robi x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robi x" height="30" width="40" /></a>
-<a href="https://instagram.com/the.__.robin.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.__.robin.__" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muthurasu-6319&show_icons=true&locale=en&layout=compact" alt="muthurasu-6319" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
