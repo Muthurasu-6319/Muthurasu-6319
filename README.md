@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Social Media Marketing Scheduler<br><br>🌱 I’m currently learning Node.js, Express.js, MongoDB – taking my frontend expertise full-stack with the MERN stack<br><br>👯 I’m looking to collaborate on Open-source MERN stack projects or frontend-focused UI libraries<br><br>🤝 I’m looking for help with Best practices in Node.js & MongoDB schema design – always open to learning<br><br>👨‍💻 All of my projects are available at https://muthurasu-portfolio.netlify.app/<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, responsive design, and frontend development best practices<br><br>📫 How to reach me muthurasu6319@gmail.com<br><br>📄 Know about my experiences https://muthurasu-portfolio.netlify.app/img/Muthurasu%20M-Resume.pdf<br><br>⚡ Fun fact I drink more coffee while coding than any other time of the day ☕😄
 
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.__.robin.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muthurasu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muthurasu6319@gmail.com) 
